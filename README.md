@@ -123,6 +123,13 @@ The full interactive PowerPoint presentation contains embedded demonstration vid
 
 This lab was created using official Microsoft installation media:
 
+- [Windows Server 2022 Evaluation](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022)
+- [Download Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
+
+The ISO files are not stored in this repository. They should be downloaded directly from Microsoft.
+
+This lab was created using official Microsoft installation media:
+
 - Windows Server 2022 Evaluation
 - Windows 11
 
